@@ -7,13 +7,13 @@
 - 📫 Contact me by email [alejosp2694@gmail.com](mailto:alejosp2694@gmail.com)
 
 
-[![Linkedin: Alejandro Salinas](https://img.shields.io/badge/Jorge-Alvarez?logo=Linkedin&logoColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjorgealvarezore)](https://www.linkedin.com/in/alejandrosalinaspal/)
-
 ## My CV
 
 Logistics Buyer and Data Scientist
 Bachelor’s degree in industrial and systems engineering
 Lima, Peru | +51 931157480 | alejosp2694@gmail.com
+LinkedIn: https://www.linkedin.com/in/alejandrosalinaspal/
+
 
 ### WORK EXPERIENCE
 
