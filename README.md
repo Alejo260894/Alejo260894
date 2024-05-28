@@ -64,9 +64,9 @@ Sunshine Export S.A.C
 
 Production Supervisor - (Jan 16 – Mar 16)
 
-• Responsible for supervising the hydrothermal process, following the standards established by SENASA for the correct processing of the product.
-• Personnel management through task delegation to advance the process as quickly as possible due to the high arrival of products focusing on export needs.
-• Search to improve the production time of the process through a time study.
+    • Responsible for supervising the hydrothermal process, following the standards established by SENASA for the correct processing of the product.
+    • Personnel management through task delegation to advance the process as quickly as possible due to the high arrival of products focusing on export needs.
+    • Search to improve the production time of the process through a time study.
 
 ### PROFESSIONAL EDUCATION
 
