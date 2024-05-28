@@ -64,17 +64,17 @@ Production Supervisor - Jan 16 – Mar 16
 ### PROFESSIONAL EDUCATION
 
 Henry Tech LLC 
-Jan 24 – Apr 24
+(Jan 24 – Apr 24)
 
 Data Science Bootcamp
 
 Centrum Católica 
-Apr 23 – Feb 24
+(Apr 23 – Feb 24)
 
 International Business Study Diploma in Supply
 
 Universidad de Piura 
-Jan 12 – Jul 18
+(Jan 12 – Jul 18)
 
 Bachelor's Degree in Industrial and Systems Engineering
 
