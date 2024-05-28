@@ -20,38 +20,43 @@ LinkedIn: https://www.linkedin.com/in/alejandrosalinaspal/
 Zeus Energy S.A.C. – Olympic Peru INC.
 Logistics Buyer - Jun 22–Nov 23
 Junior Supervisor of General Services and Logistics Nov 18 – Apr 20
+
     • Fulfilled internal requirements for the Olympic group companies through bidding processes (searching for suppliers, requesting quotes, preparing comparisons, and conducting technical and economic evaluations) based on generated purchase requisitions.
-    
     • Generated and issued purchase orders, ensuring follow-up until completion for both purchases and services.
     • Conducted tenders for specific services and/or purchases meeting certain conditions.
     • Created dashboards for presentations of logistics KPIs and event analysis using direct information from the SAP database.
     • Monitored the compliance of maintenance and repair plans in administrative offices.
 
 Manzana Verde S.A.
-Operations Coordinator Jul 21 – May 22
+Operations Coordinator - Jul 21 – May 22
+
     • Supervised morning operations via the backend with the support of catering supervisors.
     • Provided support to delivery drivers (handling customer incidents, order modifications, etc.).
     • Followed up on incidents and customer feedback with the respective catering service.
 
 Tesga Energy S.A.C.
-Logistics Assistant Feb 21 – Jul 21
+Logistics Assistant - Feb 21 – Jul 21
+
     • Fulfilled requirements for diferents projects.
     • Prepared comparisons for requirements, presenting supplier quotes and detailing the best options based on requirements.
     • Managed office warehouse, inventory, entry and exit notes, and Kardex management.
 
 Resinplast S.A.
-Planning Assistant Feb 18 – Aug 18
+Planning Assistant - Feb 18 – Aug 18
+
     • Design macros and tables as required by the planning area to facilitate issues such as programming, presentations, information search, and reports.
     • Support in personnel supervision to meet daily production and dispatch priorities.
     • Management of product warehouse in process to avoid stock breakages in production areas and verify that physical and virtual inventories match.
 
 Moore Stephens Perú
-Financial and Commercial Assistant Oct 17 – Dec 17
+Financial and Commercial Assistant - Oct 17 – Dec 17
+
     • Responsible for invoicing proposals for services provided by the company, collection and payments to service providers, and support in administrative areas.
     • Support in supplier payments, withholding tax payments, interbank transfers, and procedures carried out with different banking entities as necessary.
 
 Sunshine Export S.A.C
-Production Supervisor Jan 16 – Mar 16
+Production Supervisor - Jan 16 – Mar 16
+
 • Responsible for supervising the hydrothermal process, following the standards established by SENASA for the correct processing of the product.
 • Personnel management through task delegation to advance the process as quickly as possible due to the high arrival of products focusing on export needs.
 • Search to improve the production time of the process through a time study.
