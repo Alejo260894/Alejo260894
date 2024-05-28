@@ -18,9 +18,10 @@ LinkedIn: https://www.linkedin.com/in/alejandrosalinaspal/
 ### WORK EXPERIENCE
 
 Zeus Energy S.A.C. – Olympic Peru INC.
-Logistics Buyer Jun 22–Nov 23
+Logistics Buyer - Jun 22–Nov 23
 Junior Supervisor of General Services and Logistics Nov 18 – Apr 20
     • Fulfilled internal requirements for the Olympic group companies through bidding processes (searching for suppliers, requesting quotes, preparing comparisons, and conducting technical and economic evaluations) based on generated purchase requisitions.
+    
     • Generated and issued purchase orders, ensuring follow-up until completion for both purchases and services.
     • Conducted tenders for specific services and/or purchases meeting certain conditions.
     • Created dashboards for presentations of logistics KPIs and event analysis using direct information from the SAP database.
