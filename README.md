@@ -63,28 +63,38 @@ Production Supervisor - Jan 16 – Mar 16
 
 ### PROFESSIONAL EDUCATION
 
-Henry Tech LLC Jan 24 – Apr 24
+Henry Tech LLC 
+Jan 24 – Apr 24
+
 Data Science Bootcamp
 
-Centrum Católica Apr 23 – Feb 24
+Centrum Católica 
+Apr 23 – Feb 24
+
 International Business Study Diploma in Supply
 
-Universidad de Piura Jan 12 – Jul 18
+Universidad de Piura 
+Jan 12 – Jul 18
+
 Bachelor's Degree in Industrial and Systems Engineering
 
 ### PROJECTS
 
 Data Scientist - "API for Queries" Apr 24 - May 24
 Academic experience. Henry Bootcamp.
+
 • Design solutions in Fast API based on data to help the client with decision making.
 • Develop data engineering, ETL, and machine learning to make predictions on queries
 required by the user.
+
 Link: https://github.com/Alejo260894/Data-Science-Project-1
 
 Data Analytics - "Traffic Phenomena" Apr 24 – May 24
 Academic experience. Henry Bootcamp.
+
 • Develop a data analysis using ETL and EDA to obtain complete data for analysis through
 dashboards and indicators to help understand the problems that arise.
+
 Link: https://github.com/Alejo260894/Proyecto-2-Data-Analytic
 
 ### TECHNICAL SKILLS
