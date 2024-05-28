@@ -112,7 +112,9 @@ Link: https://github.com/Alejo260894/Proyecto-2-Data-Analytic
 ### OTHER INTERESTS
 
 Car license: Q70524464 – A1
+
 Motorcycle license: 002988 – B – II
+
 Hobbies: Reading, Basketball, and Gym.
 
 ### CERTIFICATES AND DIPLOMAS
