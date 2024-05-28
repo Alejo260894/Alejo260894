@@ -100,14 +100,23 @@ Link: https://github.com/Alejo260894/Proyecto-2-Data-Analytic
 ### TECHNICAL SKILLS
 
 • MySql (ETL) – Advanced
+
 • Python (Numpy, Matplotlib, Pandas, etc.)
+
 • Power BI (Power Query) – Intermediate/Advanced
+
 • Front end - Web Development – Intermediate Level
+
 • English – Intermediate – Advanced
+
 • SAP - Advanced
+
 • ERP Epicor Management System - Advanced
+
 • SPRING Management System - Advanced
+
 • MS Office – Advanced
+
 
 ### OTHER INTERESTS
 
